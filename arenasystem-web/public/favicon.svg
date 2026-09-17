@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ArenaFlow">
+  <rect width="64" height="64" rx="16" fill="#123B5D"/>
+  <path d="M17 39c7-17 23-22 34-14-9-1-17 2-23 8l12 1c-6 8-14 12-23 5Z" fill="#22C55E"/>
+  <path d="M16 24c9-10 24-14 33-3-12-4-24-1-33 8v-5Z" fill="#FFFFFF"/>
+</svg>

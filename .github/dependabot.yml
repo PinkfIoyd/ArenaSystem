@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: /arenasystem
+    schedule:
+      interval: weekly
+  - package-ecosystem: npm
+    directory: /arenasystem-web
+    schedule:
+      interval: weekly

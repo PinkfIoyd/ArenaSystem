@@ -1,0 +1,42 @@
+# Local agent and editor state
+.agents/
+.codex/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+venv/
+.venv/
+staticfiles/
+media/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / Vite / Playwright
+node_modules/
+dist/
+dist-ssr/
+coverage/
+test-results/
+playwright-report/
+*.local
+
+# Runtime files and local backups
+*.log
+restore-point-*/
+
