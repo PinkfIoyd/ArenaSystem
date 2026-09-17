@@ -81,10 +81,3 @@ npm run test:e2e
 O núcleo multi-tenant, a PWA, o check-in de aulas e o acesso livre estão implementados. Antes de uso comercial ainda são necessários homologação de integrações externas, testes em dispositivos reais, validação jurídica e piloto controlado. A agenda de aulas abertas/avulsas é uma evolução planejada.
 
 Consulte a pasta [`docs`](docs/) para detalhes operacionais e critérios de validação.
-
-## Segurança e dados
-
-- Bancos locais, uploads, ambientes virtuais, artefatos de build e arquivos `.env` estão excluídos do versionamento.
-- O repositório não deve conter dados reais de clientes nem credenciais de serviços externos.
-- Dados demo devem ser fictícios e ativados somente por configuração explícita.
-
